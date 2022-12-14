@@ -80,3 +80,18 @@ dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 
 	return (new);
 }
+/**
+ * free_dlistint - frees a doubly linked list
+ * @head: pointer to the list to free
+ */
+void free_dlistint(dlistint_t *head)
+{
+	dlistint_t *temp;
+
+	while (head)
+	{
+		temp = head->next;
+		free(head);
+		head = temp;
+	}
+}
