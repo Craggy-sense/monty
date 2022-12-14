@@ -26,5 +26,5 @@ File | Description
 [bf](./bf) | Advanced tasks: Brainf*ck programs
 
 ## Authers
-@samuelkchris
+
 
