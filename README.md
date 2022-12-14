@@ -24,3 +24,5 @@ File | Description
 [free.c](./free.c) | memory handling functions
 [char.c](./char.c) | handler functions for ascii instructions
 [bf](./bf) | Advanced tasks: Brainf*ck programs
+
+## Authers
