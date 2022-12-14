@@ -8,7 +8,6 @@ It then calls the right function to modify a stack according to the instruction.
 It prints custom error messages if the instruction is wrong
 
 ## Table of contents
-
 File | Description
 ---- | -----------
 [main.c](./main.c) | entry point of the program
