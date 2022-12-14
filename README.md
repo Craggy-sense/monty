@@ -1,4 +1,3 @@
-
 Compilation:
 ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
 Usage:
